@@ -3,5 +3,6 @@ public class Main{
     System.out.println("Lauren");
     System.out.println("Campbell");
     System.out.println("lcampbell@sjs.org");
+    System.out.println("Fall 2021");
   }
 }
